@@ -1,2 +1,4 @@
 # MY-DSA
-I shared my journey 
+I shared my learning dsa journey
+
+I have done array
